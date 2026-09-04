@@ -109,7 +109,7 @@ try {
 
     <meta property="og:title" content="Undangan Pernikahan Rama & Yuli" />
     <meta property="og:description" content="Selamat datang di undangan pernikahan Rama & Yuli. Terima kasih atas doa dan kehadirannya." />
-    <meta property="og:image" content="foto/ft.jpg" />
+    <meta property="og:image" content="foto/foto (1).jpg" />
     
     <!-- ========================================================== -->
     <!-- TAMBAHKAN FONT BARU DARI GOOGLE FONTS DI SINI -->
@@ -292,7 +292,7 @@ try {
 
     <div id="cover-gate" class="fixed inset-0 z-50 flex flex-col items-center justify-center bg-cream overflow-hidden">
         <div class="absolute inset-0 z-0">
-            <img src="foto/ft.jpg" alt="Background Cover" class="w-full h-full object-cover">
+            <img src="foto/foto (1).jpg" alt="Background Cover" class="w-full h-full object-cover">
             <div class="absolute inset-0 bg-black/40"></div>
         </div>
         <div class="z-10 text-center text-white px-6">
@@ -312,9 +312,9 @@ try {
     <div id="main-content" class="hidden relative">
         <section class="relative w-full h-screen overflow-hidden flex items-center justify-center">
             <div id="hero-slider">
-                <img src="foto/ft (1).jpg" class="fade-slide active">
-                <img src="foto/ft (2).jpg" class="fade-slide">
-                <img src="foto/ft (3).jpg" class="fade-slide">
+                <img src="foto/foto (11).jpg" class="fade-slide active">
+                <img src="foto/foto (15).jpg" class="fade-slide">
+                <img src="foto/foto (7).jpg" class="fade-slide">
             </div>
             <div class="absolute inset-0 bg-black/30 z-10"></div>
             <div class="relative z-20 text-center text-white flex flex-col items-center" data-aos="fade-up" data-aos-duration="1500">
@@ -341,19 +341,19 @@ try {
                 <div data-aos="fade-up">
                     <h3 class="font-serif text-3xl font-bold mb-4 text-gold text-section-title">Om Swastiastu</h3>
                     <p class="text-sm md:text-base leading-relaxed mb-12 text-body">
-                        Atas Asung Kertha Wara Nugraha Ida Sang Hyang Widhi Wasa/Tuhan Yang Maha Esa, kami bermaksud mengundang Bapak/Ibu/Saudara/i pada acara Resepsi Pernikahan putra-putri kami.
+                       Atas Asung Kertha Wara Nugraha Ida Sang Hyang Widhi Wasa/ Tuhan Yang Maha Esa, kami bermaksud mengundang Bapak/ Ibu/ Saudara/ i pada Upacara Manusa Yadnya yaitu Pawiwahan Kami.
                     </p>
                 </div>
 
                 <div class="flex flex-col md:flex-row items-center justify-center gap-12 mt-10">
                     <div class="flex-1 text-center" data-aos="fade-up">
                         <div class="border-rounded-wrapper w-85 h-100 mx-auto overflow-hidden border-double border-[6px] border-goldMilk p-1 shadow-[0_10px_25px_rgba(230,194,122,0.4)] mb-6">
-                            <img src="foto/ft (4).jpg" alt="Groom" class="w-full h-full object-cover shape-rounded">
+                            <img src="foto/foto (5).jpg" alt="Groom" class="w-full h-full object-cover shape-rounded">
                         </div>
-                        <h4 class="font-serif text-3xl font-bold mb-2 text-person-name">I Kadek Rama</h4>
+                        <h4 class="font-serif text-3xl font-bold mb-2 text-person-name">Ns. I Putu Bagus Pradhana Putra,S.Kep</h4>
                         <p class="text-sm mb-1 text-person-detail">Putra Pertama dari pasangan</p>
-                        <p class="font-semibold text-sm mb-3 text-person-family"> I Wayan Mugiana & Ni Kadek Kartini (Alm)</p>
-                        <p class="text-xs text-gray-500 italic mb-4 text-person-location"><i class="fa-solid fa-location-dot text-gold mr-1"></i> Br. Selat, Buahan Kaja, Payangan</p>
+                        <p class="font-semibold text-sm mb-3 text-person-family"> I Putu Agus Arumbawa & Ni Luh Ardiati</p>
+                        <p class="text-xs text-gray-500 italic mb-4 text-person-location"><i class="fa-solid fa-location-dot text-gold mr-1"></i>Br gunung salak, desa gunung salak , Selemadeg timur, Tabanan</p>
                         <a href="#" class="inline-block bg-white border border-gray-200 text-gray-600 px-4 py-1.5 rounded-full text-xs font-semibold hover:bg-gold hover:text-white hover:border-gold transition shadow-sm text-social-link">
                             <i class="fa-brands fa-instagram text-lg align-middle mr-1"></i> @rama_ig
                         </a>
@@ -363,12 +363,12 @@ try {
 
                     <div class="flex-1 text-center" data-aos="fade-up">
                         <div class="border-rounded-wrapper w-85 h-100 mx-auto overflow-hidden border-double border-[6px] border-goldMilk p-1 shadow-[0_10px_25px_rgba(230,194,122,0.4)] mb-6">
-                            <img src="foto/ft (5).jpg" alt="Bride" class="w-full h-full object-cover shape-rounded">
+                            <img src="foto/foto (6).jpg" alt="Bride" class="w-full h-full object-cover shape-rounded">
                         </div>
-                        <h4 class="font-serif text-3xl font-bold mb-2 text-person-name">Ni Luh Putu Sri Yulianti</h4>
+                        <h4 class="font-serif text-3xl font-bold mb-2 text-person-name"> Ni Putu Agung Muncani Putri ,S.Kep</h4>
                         <p class="text-sm mb-1 text-person-detail">Putri Pertama dari pasangan</p>
-                        <p class="font-semibold text-sm mb-3 text-person-family">I Putu Alit Saputra & Ni Kadek Noridani</p>
-                        <p class="text-xs text-gray-500 italic mb-4 text-person-location"><i class="fa-solid fa-location-dot text-gold mr-1"></i> Br. Dinas Kaja, Denpasar</p>
+                        <p class="font-semibold text-sm mb-3 text-person-family">I Gede Agus Suliman & Gusti Agung Sriadi</p>
+                        <p class="text-xs text-gray-500 italic mb-4 text-person-location"><i class="fa-solid fa-location-dot text-gold mr-1"></i> Br anyar, desa sembung , Mengwi, Badung</p>
                         <a href="#" class="inline-block bg-white border border-gray-200 text-gray-600 px-4 py-1.5 rounded-full text-xs font-semibold hover:bg-gold hover:text-white hover:border-gold transition shadow-sm text-social-link">
                             <i class="fa-brands fa-instagram text-lg align-middle mr-1"></i> @yulianti_ig
                         </a>
@@ -389,8 +389,8 @@ try {
                     
                     <div class="border-double border-[4px] border-gold p-6 mb-4 rounded-sm" data-aos="zoom-in">
                         <i class="fa-regular fa-calendar text-4xl text-gold mb-3"></i>
-                        <p class="font-bold text-xl text-gold mb-1 text-event-highlight">Minggu,</p>
-                        <p class="text-gray-700 tracking-wide text-event-detail">7 Juni 2026</p>
+                        <p class="font-bold text-xl text-gold mb-1 text-event-highlight">Sabtu,</p>
+                        <p class="text-gray-700 tracking-wide text-event-detail">26 September 2026</p>
                     </div>
 
                     <div class="border-double border-[4px] border-gold p-6 mb-8 rounded-sm" data-aos="zoom-in" data-aos-delay="100">
@@ -404,7 +404,7 @@ try {
                         Br. Gambih, Desa Buahan, Kec. Payangan
                     </div>
 
-                    <a href="https://maps.app.goo.gl/B9cpzbiL5PhXhvDW9" target="_blank" class="block w-full bg-btnBrown text-white py-3.5 rounded-sm text-sm font-semibold hover:bg-yellow-800 transition shadow text-event-button" data-aos="fade-up">
+                    <a href="https://maps.app.goo.gl/LcaEHZD8eLyXjcfz8" target="_blank" class="block w-full bg-btnBrown text-white py-3.5 rounded-sm text-sm font-semibold hover:bg-yellow-800 transition shadow text-event-button" data-aos="fade-up">
                         <i class="fa-solid fa-map-location-dot mr-2"></i> Buka Maps
                     </a>
                 </div>
@@ -412,7 +412,7 @@ try {
         </section>
 
         <!-- Hitung Mundur -->
-        <section class="py-20 bg-creamDark relative text-center bg-cover bg-center" style="background-image: url('foto/ft (8).jpg');">
+        <section class="py-20 bg-creamDark relative text-center bg-cover bg-center" style="background-image: url('foto/foto (8).jpg');">
             <h3 class="font-serif text-4xl text-gold mb-8 text-section-title" data-aos="fade-up">Menuju Hari Bahagia</h3>
             <div class="absolute inset-0 bg-gradient-to-t from-white via-white/30 to-transparent z-0"></div>
             <div class="container mx-auto px-6 z-10 relative">    
@@ -434,7 +434,7 @@ try {
                         <span class="text-xs md:text-sm uppercase tracking-wider mt-1 text-count-label">Detik</span>
                     </div>
                 </div>
-                <a href="https://calendar.google.com/calendar/render?action=TEMPLATE&text=Pernikahan+Rama+%26+Yuli&dates=20260607T050000Z/20260607T110000Z&details=Resepsi+Pernikahan+Rama+dan+Yuli&location=Br+Gambih+Desa+Buahan+Kec+Payangan" target="_blank" class="inline-block bg-gold text-white px-8 py-3 rounded-full text-sm font-semibold tracking-wide shadow-lg hover:bg-yellow-700 transition text-event-button" data-aos="fade-up">
+                <a href="https://calendar.google.com/calendar/render?action=TEMPLATE&text=Pernikahan+Rama+%26+Yuli&dates=20260926T050000Z/20260926T110000Z&details=Resepsi+Pernikahan+Rama+dan+Yuli&location=Br+Gambih+Desa+Buahan+Kec+Payangan" target="_blank" class="inline-block bg-gold text-white px-8 py-3 rounded-full text-sm font-semibold tracking-wide shadow-lg hover:bg-yellow-700 transition text-event-button" data-aos="fade-up">
                     <i class="fa-regular fa-calendar-check mr-2"></i> SAVE THE DATE
                 </a>
             </div>
@@ -529,7 +529,7 @@ try {
         </section>
         
         <!-- Footer -->
-        <section class="py-16 bg-gray-900 text-white text-center relative overflow-hidden bg-cover bg-center" style="background-image: url('foto/ft (9) 1.jpg');">
+        <section class="py-16 bg-gray-900 text-white text-center relative overflow-hidden bg-cover bg-center" style="background-image: url('foto/foto (10).jpg');">
              <div class="absolute inset-0 bg-gradient-to-t from-black via-black/30 to-transparent z-0"></div>
              <div class="container mx-auto px-6 relative z-10" data-aos="fade-up">
                  <p class="text-sm md:text-base leading-relaxed mb-8 max-w-2xl mx-auto text-footer">
@@ -609,7 +609,7 @@ try {
             slides[currentSlide].classList.add('active');
         }, 4000);
 
-        const countDownDate = new Date("Jun 7, 2026 13:00:00").getTime();
+        const countDownDate = new Date("Sep 26, 2026 13:00:00").getTime();
         const intervalTimer = setInterval(function() {
             const now = new Date().getTime();
             const distance = countDownDate - now;
@@ -634,8 +634,8 @@ try {
         // ==========================================
         const galleryContainer = document.getElementById('gallery-container');
         const galleryImages = [];
-        for (let i = 1; i <= 20; i++) {
-            const src = `foto/ph (${i}).jpg`;
+        for (let i = 1; i <= 15; i++) {
+            const src = `foto/foto (${i}).jpg`;
             galleryImages.push(src);
             const a = document.createElement('a');
             a.href = '#'; 
